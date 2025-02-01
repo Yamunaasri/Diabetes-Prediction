@@ -44,6 +44,10 @@ python diabetes_prediction.py
 ```
 Ensure the `diabetes.csv` file is available in the working directory.
 
+## Link to the colab file
+
+https://colab.research.google.com/drive/1sIUkisdC9lbh5c4rq3KfCE5f3LnPJQyX?usp=sharing
+
 ## Results
 The trained model predicts diabetes based on given health metrics. The performance can be evaluated using accuracy metrics.
 
